@@ -1,0 +1,4 @@
+#Tue Feb 02 16:22:09 CST 2021
+base.0=/home/tershi/webf/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

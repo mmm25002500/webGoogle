@@ -1,0 +1,4 @@
+com/newb/webf/MainActivity.java
+ com.newb.webf.MainActivity
+com/newb/webf/BuildConfig.java
+ com.newb.webf.BuildConfig
